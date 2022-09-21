@@ -2,7 +2,7 @@
     "name": "starilov/example.local",
     "autoload": {
         "psr-4": {
-            "Starilov\\ExampleLocal\\": "src/"
+            "Src\\": "src/"
         }
     },
     "authors": [
